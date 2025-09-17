@@ -1,28 +1,4 @@
-<div align="center"> 
-    <!-- Animated Typography --> 
-    <h1 style="font-family: 'Inter', sans-serif; font-weight: 800; font-size: 3.5rem; background: linear-gradient(45deg, #667eea, #764ba2); -webkit-background-clip: text; -webkit-text-fill-color: transparent; margin-bottom: 0.5rem;">
-        HANS CLEMENT GIER
-    </h1> 
-    <div style="position: relative; display: inline-block;"> 
-        <h2 style="font-family: 'JetBrains Mono', monospace; color: #64ffda; font-weight: 400; font-size: 1.5rem; margin-top: 0;">
-            JUNIOR FULL STACK DEVELOPER
-        </h2>
-    <div class="animated-underline"></div>
-    </div> 
-
-<!-- Social Links -->
-<div style="margin: 2rem 0;"> 
-    <a href="https://linkedin.com/in/yourprofile" style="margin: 0 10px;"> 
-        <img src="https://img.icons8.com/ios-filled/50/64ffda/linkedin.png" alt="LinkedIn" width="30"/> 
-    </a> 
-    <a href="https://github.com/your-username" style="margin: 0 10px;"> 
-        <img src="https://img.icons8.com/ios-filled/50/64ffda/github.png" alt="GitHub" width="30"/> 
-    </a> 
-    <a href="mailto:your.email@example.com" style="margin: 0 10px;"> 
-        <img src="https://img.icons8.com/ios-filled/50/64ffda/email.png" alt="Email" width="30"/> 
-    </a> 
-</div>
-</div>
+# Hi, I'm **Hans**
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6B7FD7&center=true&vCenter=true&width=435&lines=Turning+Designs+Into+Reality;Anime+Enthusiast+%F0%9F%8E%A7;Music+Producer+%F0%9F%8E%B6;Detail-Oriented+Developer" alt="Typing SVG" /></a>
