@@ -1,7 +1,7 @@
 # Hi, I'm **Hans**
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6B7FD7&center=true&vCenter=true&width=435&lines=Turning+Designs+Into+Reality;Anime+Enthusiast+%F0%9F%8E%A7;Music+Producer+%F0%9F%8E%B6;Detail-Oriented+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=6B7FD7&center=true&vCenter=true&width=435&lines=Self+Taugh+Web+Developer;Turning+Designs+Into+Reality;Anime+Enthusiast+%F0%9F%8E%A7;Music+Producer+%F0%9F%8E%B6;Detail-Oriented+Developer" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -11,8 +11,8 @@
 - 🎓 Recent Computer Science graduate from **Visayas State University**.
 - ❤️ My passion is **web development** – I love translating stunning designs into functional, animated, and user-centric experiences.
 - 🎨 I'm fascinated by **web animation** and creating those smooth, award-winning (Awwwards-style) interactions.
-- 🎹 **Fun fact:** I dislike math, but I love the logic of programming. When I'm not coding, I'm mixing music, playing piano/guitar, gaming (Valorant & Genshin), or diving
-  into anime and web novels.
+- 🎹 **Fun fact:** I dislike math, but I love the logic of programming hehe. When I'm not coding, I'm mixing music, playing piano/guitar, gaming (Valorant & Genshin), or diving
+  into anime, manga, and web novels.
 - 🌱 I’m currently exploring **Three.js**, **GSAP**, and advanced React ecosystems.
 - 👯 I’m looking to collaborate on **innovative web projects** and contribute to a great development team.
 
